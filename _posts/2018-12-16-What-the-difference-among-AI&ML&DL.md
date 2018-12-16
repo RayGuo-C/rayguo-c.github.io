@@ -1,0 +1,12 @@
+---
+layout: "post"
+title: what the difference between AI&ML&DL
+---
+
+In the past few years, artificial intelligence (AI) has been widely mentioned in various region, such as robot, intelligent chatbots, self-driving cars, speech recognition, image recognition, expert system and so on. Machine learning(ML), and deep learning(DL) also are pretty important topics in this intelligent region. Then what are them, and what are the differences among them? 
+
+Firstly, artificial intelligence(AI) is coined by John McCarthy in 1956, and defined as that enable machine mimic human behavior. There are a lot of methods to simulate the human intelligence. Such as early chess programs and expert system can be solved by programmers through explicit rules. But some questions in life, such as image classification, speech recognition, and so on, are intractable to find out explicit rules. Therefore, a new approach called machine learning(ML) as a subset of AI is used to solve this kind of questions.
+
+In 1959, Arthur Samuel, one of the pioneers of machine learning, defined machine learning as a field of study that gives computers the ability to learn without being explicitly programmed. And what ML algorithms do? As mentioned by Tom Mitchell in 1998, computer learn from experience E according to task T, and then make a great measure P. And the learning part of ML means that ML algorithm attempt to optimize along a certain dimension i.e. they try to minimize the error or maximize the likelihood of their predictions being true through learning process without explicit rules. We need three things: input data points, examples of the expected outputs and a way to measure the algorithm is doing a good job.(But, how to distinguish supervised learning and unsupervised learning). 
+
+Deep leaning(DL) is a special subset of ML. Although deep learning is a fairly old subfield, it only rose to prominence in the early 2010s, since many challenge tasks associated with humans such as hearing and seeing have been solved better than other methods. However, it must remember that deep learning modes are not models of brains. As Francois Chollet said, there is no evidence that brain thought action is like the deep learning modes. Besides, deep in deep learning is not a reference to any deeper representations, rather than it stands for the ideas of successive layers of representation. So we also can call this as layered representations learning, and hierarchical representation learning. 
